@@ -1,0 +1,17 @@
+.nav_link{
+    color: white;
+}
+
+.active{
+    color: #29c329;
+}
+
+
+.cart_div {
+    background-color: #e0e0e0;
+    padding: 1rem;
+    margin: 0.5rem;
+    border-radius: 0.5rem;
+  }
+
+
